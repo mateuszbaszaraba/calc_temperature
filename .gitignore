@@ -1,0 +1,8 @@
+/.idea/
+/cmake-build-debug/CMakeFiles/
+/cmake-build-debug/Testing/Temporary/
+/cmake-build-debug/CMakeCache.txt
+/cmake-build-debug/calc_temperature
+/cmake-build-debug/calc_temperature.cbp
+/cmake-build-debug/cmake_install.cmake
+/cmake-build-debug/Makefile
